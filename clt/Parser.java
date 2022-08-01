@@ -1,8 +1,8 @@
-package com.mycompany.clt;
+
 
 /**
  *
- * @author user
+ * @author Mahmoud Abd El-Ghany Ebrahim
  */
 public class Parser {
 
