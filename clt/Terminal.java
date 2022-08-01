@@ -1,13 +1,16 @@
-package com.mycompany.clt;
+/**
+ *
+ * @author Mahmoud Abd El-Ghany Ebrahim
+ * @version 1.0
+ */
+
+/*
+Biko
+*/
 
 import java.io.File;
 import java.util.Scanner;
 
-/**
- *
- * @author Mahmoud abd elghany
- * @version 1.0
- */
 public class Terminal {
 
     static String user_dir = System.getProperty("user.dir");
